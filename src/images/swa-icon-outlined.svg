@@ -1,0 +1,25 @@
+<svg width="20" height="16.471" version="1.1" viewBox="0 0 20 16.471" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="e6ad4df9-0ab7-4b49-9706-620b42380f0b" x1="9" x2="9" y1="16.236" y2="5.599" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#005ba1" offset="0"/>
+   <stop stop-color="#0078d4" offset=".775"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1406" x1="9" x2="9" y1="16.236" y2="5.599" gradientTransform="translate(5.134,-2.836)" gradientUnits="userSpaceOnUse" xlink:href="#e6ad4df9-0ab7-4b49-9706-620b42380f0b"/>
+  <linearGradient id="linearGradient2382" x1="9" x2="9" y1="16.236" y2="5.599" gradientUnits="userSpaceOnUse" xlink:href="#e6ad4df9-0ab7-4b49-9706-620b42380f0b"/>
+ </defs>
+ <g transform="translate(-4.134 2.072)" stroke="#fff" stroke-width="2">
+  <path d="m5.134 2.764h18v10.035a0.6 0.6 0 0 1-0.6 0.6h-16.8a0.6 0.6 0 0 1-0.6-0.6z" fill="url(#linearGradient1406)"/>
+  <path d="m5.734-1.072h16.8a0.6 0.6 0 0 1 0.6 0.6v3.236h-18v-3.235a0.6 0.6 0 0 1 0.6-0.601z" fill="#005ba1"/>
+ </g>
+ <g transform="translate(1 -.764)">
+  <path d="m0 5.6h18v10.035a0.6 0.6 0 0 1-0.6 0.6h-16.8a0.6 0.6 0 0 1-0.6-0.6z" fill="url(#linearGradient2382)"/>
+  <rect x="1.309" y="6.657" width="15.527" height="8.514" rx=".6" fill="#5ea0ef" opacity=".6"/>
+  <path d="m0.6 1.764h16.8a0.6 0.6 0 0 1 0.6 0.6v3.236h-18v-3.235a0.6 0.6 0 0 1 0.6-0.601z" fill="#005ba1"/>
+  <g fill="#fff">
+   <path d="m7.109 13.217-0.321 0.32a0.144 0.144 0 0 1-0.205 0l-2.325-2.332a0.29 0.29 0 0 1 0-0.41l0.321-0.32 2.531 2.537a0.145 0.145 0 0 1-1e-3 0.205zm3.653 0 0.321 0.32a0.144 0.144 0 0 0 0.205 0l2.325-2.332a0.29 0.29 0 0 0 0-0.41l-0.322-0.32-2.53 2.537a0.145 0.145 0 0 0 1e-3 0.205z" opacity=".8"/>
+   <path d="m6.831 8.433 0.32 0.321a0.144 0.144 0 0 1 0 0.205l-2.575 2.568-0.32-0.322a0.289 0.289 0 0 1 0-0.41l2.37-2.363a0.145 0.145 0 0 1 0.205 1e-3zm4.207 0-0.32 0.321a0.144 0.144 0 0 0 0 0.205l2.575 2.568 0.32-0.321a0.292 0.292 0 0 0 0-0.411l-2.37-2.362a0.144 0.144 0 0 0-0.205 1e-3z"/>
+   <path d="m8.159 14.363-0.513-0.163a0.105 0.105 0 0 1-0.067-0.131l2.09-6.529a0.1 0.1 0 0 1 0.13-0.067l0.513 0.164a0.1 0.1 0 0 1 0.067 0.13l-2.09 6.533a0.1 0.1 0 0 1-0.13 0.063z"/>
+   <path d="m3.166 3.847a0.76 0.76 0 1 1-0.76-0.76 0.76 0.76 0 0 1 0.76 0.76zm1.634-0.76a0.76 0.76 0 1 0 0.76 0.76 0.76 0.76 0 0 0-0.76-0.76zm2.393 0a0.76 0.76 0 1 0 0.76 0.76 0.76 0.76 0 0 0-0.762-0.76z"/>
+  </g>
+ </g>
+</svg>
